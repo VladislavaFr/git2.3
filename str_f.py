@@ -6,5 +6,3 @@ def uppercase(text_1):
 print(text_1)
 
 # qwer
-# 56789
-# 492
